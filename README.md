@@ -74,6 +74,6 @@ flowchart TD
 
 ## 相关链接
 
-- 阿彦的主页：https://github.com/JUYIKEJI
-- 网站地图插件（WordPress 版）：https://github.com/JUYIKEJI/wordpress-sitemap
-- 网站地图插件（Typecho 版）：https://github.com/JUYIKEJI/sitemap
+- [阿彦的主页](https://github.com/JUYIKEJI)
+- [网站地图插件（WordPress 版）](https://github.com/JUYIKEJI/wordpress-sitemap)（1.0.0 版）
+- [网站地图插件（Typecho 版）](https://github.com/JUYIKEJI/sitemap)（1.2.0 版）
